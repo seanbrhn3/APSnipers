@@ -1,0 +1,23 @@
+{
+  "name": "sean",
+  "version": "1.0.0",
+  "description": "Daemon dash hackathon",
+  "main": "wheather.js",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seanbrhn3/APSnipers.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seanbrhn3/APSnipers/issues"
+  },
+  "homepage": "https://github.com/seanbrhn3/APSnipers#readme"
+}
