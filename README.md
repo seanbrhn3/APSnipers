@@ -10,8 +10,8 @@ We integrated the Accu wheather API with our application using C#.
 
 #Images
 
-![alt tag](rain)
+![alt tag](rain.png)
 
-![alt tag](cloudy and sunny)
+![alt tag](cloudy and sunny.png)
 
-![alt tag](lightning)
+![alt tag](lightning.png)
