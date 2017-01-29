@@ -19,3 +19,6 @@ We integrated the Accu wheather API with our application using C#.
 ##Lightning
 
 ![alt tag](lightning.png)
+
+##Snow
+![alt tag](snow.png)
