@@ -8,4 +8,10 @@ Once the user clicks on a state and a image will pop up on the screen based on t
 #Weather
 We integrated the Accu wheather API with our application using C#.
 
+#Images
 
+![alt tag](rain)
+
+![alt tag](cloudy and sunny)
+
+![alt tag](lightning)
